@@ -2,7 +2,7 @@
 
 ## Natural Language Processing Specialization, DeepLearning.AI, Coursera
 
-[Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+### [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
 
 - **Week 1**: Auto-correct
 - **Week 2**: Part of Speech Tagging and Hidden Markov Models
