@@ -161,3 +161,6 @@ cython_debug/
 
 ## My files
 dont-track
+
+# Datasets
+c3-sequence-models/week-1/data/aclImdb
