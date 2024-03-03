@@ -164,3 +164,6 @@ dont-track
 
 # Datasets
 c3-sequence-models/week-1/data/aclImdb
+
+# Models
+c3-sequence-models/week-1/a2-deep-n-grams/model
