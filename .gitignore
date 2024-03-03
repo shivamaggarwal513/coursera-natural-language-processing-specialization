@@ -164,6 +164,7 @@ dont-track
 
 # Datasets
 c3-sequence-models/week-1/data/aclImdb
+c3-sequence-models/week-2/a1-named-entity-recognition/data/*.txt
 
 # Models
 c3-sequence-models/week-1/a2-deep-n-grams/model
