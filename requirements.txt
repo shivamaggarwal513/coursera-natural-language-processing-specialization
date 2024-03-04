@@ -1,10 +1,14 @@
+dlai-grader==1.18.0
 dlai-tools==0.5.7
 emoji==2.10.1
+graphviz==0.20.1
 jupyterlab==4.1.2
 matplotlib==3.8.3
 nltk==3.8.1
 numpy==1.26.4
 pandas==2.2.1
+pydot==2.0.0
+pydotplus==2.0.2
 scikit-learn==1.4.1.post1
 tensorflow==2.15.0
 termcolor==2.4.0
